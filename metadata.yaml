@@ -1,0 +1,31 @@
+_repo: Juho-VesainenHistoriallinen-romaani_44207
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ivalo, Santeri
+    aliases:
+    - Ingman, Santeri
+    - Ivalo, Herman Aleksander
+    birthdate: 1866
+    deathdate: 1937
+    gutenberg_agent_id: '31820'
+    url: http://www.gutenberg.org/2009/agents/31820
+    wikipedia: http://fi.wikipedia.org/wiki/Santeri_Ivalo
+description: ''
+gutenberg_issued: '2013-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44207'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Finnish fiction'
+- !lcc 'PH'
+title: 'Juho Vesainen: Historiallinen romaani'
+url: http://www.gutenberg.org/ebooks/44207
